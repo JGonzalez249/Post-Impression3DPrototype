@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/VanGoNarration.ogg-82b88791c37fc4ad4bd7a8c2dc640d33.oggstr"
+
+[deps]
+
+source_file="res://audio/VanGoNarration.ogg"
+dest_files=[ "res://.import/VanGoNarration.ogg-82b88791c37fc4ad4bd7a8c2dc640d33.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

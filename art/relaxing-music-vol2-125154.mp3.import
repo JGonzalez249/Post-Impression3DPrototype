@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/relaxing-music-vol2-125154.mp3-f7fc8182b71d469ec16a928c2f11f0e7.mp3str"
+
+[deps]
+
+source_file="res://art/relaxing-music-vol2-125154.mp3"
+dest_files=[ "res://.import/relaxing-music-vol2-125154.mp3-f7fc8182b71d469ec16a928c2f11f0e7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

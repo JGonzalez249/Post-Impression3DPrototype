@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/anime_starry_night.glb" type="PackedScene" id=1]
+
+[node name="StarryNightSky" type="Spatial"]
+
+[node name="anime_starry_night" parent="." instance=ExtResource( 1 )]
